@@ -3,7 +3,7 @@
 ## What is Heatmaps?
 A heatmap is a two-dimensional visualization of data that uses color to represent numerical values. This can be either different intensities of the same hue, or different colors from a palette. Heatmap represents data values through colors, each cell in a table or matrix is shaded according to its value. Higher or more significant values are usually displayed in darker/stronger colors, while lower or missing values are shown in lighter colors.
 
-Heatmapswereimportedintocartographyfromdatavisualization techniques, similar  to other maptypesalreadywellestablishedincartography, suchasdiagrams, charts, dots or choropleths.  Heat maps are not necessarily connected strictly to geography. They aresed in medicine, chemistry, biology and ecology, the social sciences for non spatial data, and eye-tracker analysis.
+Heatmaps were imported into cartography from data visualization techniques, similar  to other map types already well established in cartography, such as diagrams, charts, dots or choropleths.  Heat maps are not necessarily connected strictly to geography. They aresed in medicine, chemistry, biology and ecology, the social sciences for non spatial data, and eye-tracker analysis.
 
 <img width="712" height="356" alt="image" src="https://github.com/user-attachments/assets/e5170d9c-15ab-4d61-878b-65846e2e5782" />
 
