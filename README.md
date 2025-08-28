@@ -74,10 +74,10 @@ plt.show()
 
 
 ### Input Data from File
-# Membaca data dari file Excel
+#### Membaca data dari file Excel
 df = pd.read_excel('Penjadwalan.xlsx', index_col='Puskesmas')
 
-# Konversi data ke integer
+#### Konversi data ke integer
 df = df.astype(int)
 
 
