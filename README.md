@@ -6,6 +6,7 @@ A heatmap is a two-dimensional visualization of data that uses color to represen
 Heatmapswereimportedintocartographyfromdatavisualization techniques, similar  to other maptypesalreadywellestablishedincartography, suchasdiagrams, charts, dots or choropleths.  Heat maps are not necessarily connected strictly to geography. They aresed in medicine, chemistry, biology and ecology, the social sciences for non spatial data, and eye-tracker analysis.
 
 <img width="712" height="356" alt="image" src="https://github.com/user-attachments/assets/e5170d9c-15ab-4d61-878b-65846e2e5782" />
+
 https://www.mdpi.com/2220-9964/10/8/562 
 
 ### Heatmaps are widely used for:
@@ -26,6 +27,8 @@ Purpose of using a heatmap in this case is to:
   Detect gaps or empty slots for potential rescheduling.
 
 <img width="623" height="527" alt="image" src="https://github.com/user-attachments/assets/9ed430c6-90cf-49ff-bf8e-17e270844471" />
+
+The heatmap reveals uneven distribution of posyandu visits, with some facilities (e.g., F32, F63) overscheduled while others (e.g., F37, F43) are often left empty. Day 1 is the busiest, whereas Days 3 and 5 are lighter, leading to workload imbalance and unequal community services. To improve, schedules should be more evenly distributed across days and facilities, supported by regular monitoring through heatmap analysis to ensure balanced planning and optimal service quality.
 
 ## Code
 
